@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "checked": false,
+      "item": "Sivaskr"
+    },
+    {
+      "id": "2",
+      "checked": true,
+      "item": "Java"
+    },
+    {
+      "id": "3",
+      "checked": true,
+      "item": "Github tutorial"
+    },
+    {
+      "id": "4",
+      "checked": false,
+      "item": "React"
+    },
+    {
+      "id": "5",
+      "checked": false,
+      "item": "Javascript"
+    },
+    {
+      "id": "7",
+      "checked": false,
+      "item": "codinggg"
+    },
+    {
+      "id": "8",
+      "checked": true,
+      "item": "fullsatck"
+    }
+  ]
+}
