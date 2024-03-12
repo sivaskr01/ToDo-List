@@ -49,7 +49,7 @@ const Content = ({items,handleChange,handleDelete}) => {
        handleChange={handleChange}
        handleDelete={handleDelete}
         />
-        ):(<p style={{marginTop:'8rem'}}>Your List is Empty</p>)
+        ):(<p style={{marginTop:'8rem'}}>Your List is Empty...</p>)
       }
     </>
   )
